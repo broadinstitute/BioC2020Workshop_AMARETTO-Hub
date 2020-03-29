@@ -1,4 +1,4 @@
-# BioC_AMARETTO-Hub
+# Bioconductor 2020 Workshop on *AMARETTO-Hub
 AMARETTO-Hub for Knowledge Graph-based embedding of *AMARETTO multimodal and multiscale network-based biomedicine
 
 ## Title:
