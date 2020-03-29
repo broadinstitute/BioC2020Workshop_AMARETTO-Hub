@@ -1,5 +1,13 @@
-# Bioconductor 2020 Workshop on *AMARETTO-Hub
-AMARETTO-Hub for Knowledge Graph-based embedding of *AMARETTO multimodal and multiscale network-based biomedicine
+# Bioconductor 2020 Workshop on *AMARETTO-Hub:
+# AMARETTO-Hub for Knowledge Graph-based embedding of *AMARETTO multimodal and multiscale network-based biomedicine
+
+# Instructors:
+
+Nathalie Pochet (npochet@broadinstitute.org)
+Mohsen Nabian (mnabian@broadinstitute.org)
+Artur Manukyan (amanukya@broadinstitute.org)
+
+# Workshop Description:
 
 ## Title:
 
@@ -27,9 +35,11 @@ We demonstrate the utility of AMARETTO-Hub via several Use Cases of pan-cancer a
 
 # Insert Workshop Title
 
-# Instructor(s) name(s) and contact information
+# Instructors names and contact information
 
-Provide names and contact information for all instructors.
+Nathalie Pochet,  npochet@broadinstitute.org
+Mohsen Nabian,  mnabian@broadinstitute.org
+Artur Manukyan,  amanukya@broadinstitute.org
 
 # Workshop Description
 
