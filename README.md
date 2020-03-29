@@ -32,8 +32,10 @@ For several Use Cases of cancer, we provide biomedical users with R Jupyter Note
 
 We demonstrate the utility of AMARETTO-Hub via several Use Cases of pan-cancer and pan-etiology of cancer applications, investigating how complementary drug treatments target shared and distinct disease mechanisms, optimizing a trade-off between maximizing efficacy and minimizing toxicity.
 
+<methods description>
+<use cases description>
 <add links to resources: bioc, github, notebooks, html, neo4j, shiny>
-
+<audience: both biomed users for user-friendly tools, and software devs to enable further devs>
 
 
 
