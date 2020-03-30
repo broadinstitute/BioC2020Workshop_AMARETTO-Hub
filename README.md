@@ -30,8 +30,6 @@ For several Use Cases of cancer, we provide biomedical users with R Jupyter Note
 
 We demonstrate the utility of &ast;AMARETTO-Hub via several Use Cases of pan-cancer and pan-etiology of cancer applications, and provide insights into future directions on mapping pharmacogenomic data onto these networks for therapeutics. We anticipate that our network graph-based approaches will enable to investigate how complementary drug treatments target shared and distinct disease mechanisms, thereby optimizing a trade-off between maximizing efficacy and minimizing toxicity, and that they will enable to prioritize lead drivers, targets and drugs for follow-up with experimental validation, towards better therapeutics of cancer.
 
-<Overview Figure: to be included>
-
 ## Resources
 
 ### Bioconductor / R packages
