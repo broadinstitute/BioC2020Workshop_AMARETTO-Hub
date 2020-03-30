@@ -1,4 +1,4 @@
-# Bioconductor 2020 Workshop on &ast;AMARETTO-Hub
+# Bioconductor 2020 Workshop on the &ast;AMARETTO software toolbox
 ## _AMARETTO-Hub for Knowledge Graph-based Embedding of &ast;AMARETTO Multimodal and Multiscale Network-based BioMedicine_
 
 # Instructors
