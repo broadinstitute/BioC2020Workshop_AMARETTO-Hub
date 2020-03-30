@@ -36,7 +36,7 @@ We demonstrate the utility of AMARETTO-Hub via several Use Cases of pan-cancer a
 
 ### Bioconductor / R packages
 
-AMARETTO: https://bioconductor.org/packages/release/bioc/html/AMARETTO.html and https://github.com/gevaertlab/AMARETTO
+AMARETTO: https://bioconductor.org/packages/release/bioc/html/AMARETTO.html and https://github.com/gevaertlab/AMARETTO <br/>
 Community-AMARETTO: https://github.com/broadinstitute/CommunityAMARETTO
 Imaging-AMARETTO: https://github.com/broadinstitute/ImagingAMARETTO
 AMARETTO-Hub: https://github.com/broadinstitute/AMARETTO-Hub
