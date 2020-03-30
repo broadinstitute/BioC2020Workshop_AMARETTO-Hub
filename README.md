@@ -10,7 +10,7 @@
 
 # Workshop Description
 
-## Title
+## Summary
 
 AMARETTO-Hub: a Knowledge Graph-based software platform that leverages the &ast;AMARETTO software toolbox for multimodal and multiscale network-based fusion of multi-omics, clinical, imaging, and perturbation data across studies of patients, etiologies and model systems of cancer.
 
