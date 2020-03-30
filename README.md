@@ -37,6 +37,19 @@ We demonstrate the utility of AMARETTO-Hub via several Use Cases of pan-cancer a
 <add links to resources: bioc, github, notebooks, html, neo4j, shiny>
 <audience: both biomed users for user-friendly tools, and software devs to enable further devs>
 
+## Time outline
+
+An outline of the 45-minute workshop:
+
+| Activity                                        | Time |
+|-------------------------------------------------|------|
+| Introduction to the AMARETTO software toolbox   | 15m  |
+| Introduction to the Use Cases of AMARETTO       | 15m  |
+| Applying AMARETTO resources to the Use Cases    | 5m   |
+| Interpreting AMARETTO results for the Use Cases | 10m  |
+
+
+
 
 
 # Workshop Description
