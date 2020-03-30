@@ -123,14 +123,14 @@ https://datascience.cancer.gov/news-events/blog/informatics-technology-cancer-re
 
 ### Talks
 
-Short version (BioC 2019): 
-Long version (HMS/BWH 2019): http://portals.broadinstitute.org/pochetlab/HMS_BWH_seminar_NP.pdf
+BioC 2019: 
+HMS/BWH 2019: http://portals.broadinstitute.org/pochetlab/HMS_BWH_seminar_NP.pdf
 
 ### Figures (to be updated)
 
 ### Funding
 
-
+This work was supported by grants from NIH NCI ITCR R21 CA209940 (Pochet), NIH NCI ITCR U01 CA214846 Collaborative Supplement (Carey/Pochet) and NIH NIAID R03 AI131066 (Pochet).
 
 
 
