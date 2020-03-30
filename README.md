@@ -50,8 +50,8 @@ An outline of the 45-minute workshop:
 |-------------------------------------------------|------|
 | Introduction to the AMARETTO software toolbox   |  5m  |
 | Introduction to the Use Cases of AMARETTO       |  5m  |
-| Applying AMARETTO resources to the Use Cases    | 20m  |
-| Interpreting AMARETTO results for the Use Cases | 15m  |
+| Applying AMARETTO resources to the Use Cases    | 25m  |
+| Interpreting AMARETTO results for the Use Cases | 10m  |
 
 
 
