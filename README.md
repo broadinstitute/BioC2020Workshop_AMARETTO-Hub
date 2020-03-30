@@ -113,7 +113,7 @@ An outline of the 45-minute workshop:
 
 ### Papers
 
-Gevaert O.\\*, Nabian M.\\*, Bakr S., Everaert C., Shinde J., Manukyan A., Liefeld T., Tabor T., Xu J., Lupberger J., Haas B.J., Baumert T.F., Hernaez M., Reich M., Quintana F.J., Uhlmann E.J., Krichevsky A.M., Mesirov J.P., Carey V., Pochet N. (2020) Imaging-AMARETTO: an imaging genomics software tool to interrogate multi-omics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes. Accepted for publication in Journal of Clinical Oncology, Clinical Cancer Informatics.
+Gevaert O.*, Nabian M.*, Bakr S., Everaert C., Shinde J., Manukyan A., Liefeld T., Tabor T., Xu J., Lupberger J., Haas B.J., Baumert T.F., Hernaez M., Reich M., Quintana F.J., Uhlmann E.J., Krichevsky A.M., Mesirov J.P., Carey V., Pochet N. (2020) Imaging-AMARETTO: an imaging genomics software tool to interrogate multi-omics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes. Accepted for publication in Journal of Clinical Oncology, Clinical Cancer Informatics.
 
 Champion M., Brennan K., Croonenborghs T., Gentles A.J., Pochet N., Gevaert O. (2018) Module analysis captures genetically and epigenetically deregulated cancer driver genes for smoking and antiviral response. EBioMedicine, 27:156-166. https://www.thelancet.com/article/S2352-3964(17)30472-3/fulltext
 
