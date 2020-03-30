@@ -36,43 +36,40 @@ We demonstrate the utility of AMARETTO-Hub via several Use Cases of pan-cancer a
 
 ### Bioconductor / R packages
 
-AMARETTO: https://bioconductor.org/packages/release/bioc/html/AMARETTO.html and https://github.com/gevaertlab/AMARETTO
-
-Community-AMARETTO: https://github.com/broadinstitute/CommunityAMARETTO
-
-Imaging-AMARETTO: https://github.com/broadinstitute/ImagingAMARETTO
-
-AMARETTO-Hub: https://github.com/broadinstitute/AMARETTO-Hub
+- AMARETTO: https://bioconductor.org/packages/release/bioc/html/AMARETTO.html and https://github.com/gevaertlab/AMARETTO
+- Community-AMARETTO: https://github.com/broadinstitute/CommunityAMARETTO
+- Imaging-AMARETTO: https://github.com/broadinstitute/ImagingAMARETTO
+- AMARETTO-Hub: https://github.com/broadinstitute/AMARETTO-Hub
 
 ### R Jupyter Notebooks for running Use Cases on Google Golab servers
 
-Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma
+- Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma
 
 https://colab.research.google.com/drive/17GieTfYriTVlbKchl-OEb5nI_NA2vvjQ
 
-Use Case 2: multi-omics and imaging data fusion in brain cancer
+- Use Case 2: multi-omics and imaging data fusion in brain cancer
 
 https://colab.research.google.com/drive/1i9M5vNfLm2VWi6qDkh04Z2lBE4NEc6XP
 
-Use Case 3: pan-squamous cell carcinoma across 5 cancer sites
+- Use Case 3: pan-squamous cell carcinoma across 5 cancer sites
 
 https://colab.research.google.com/drive/17RwBxwWWnXJMRI_VZl-X-hztJTwvlFjl
 
 ### Reports with results from Use cases
 
-Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma
+- Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma
 
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_Liver_6DS/index.html
 
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_Liver_6DS/
 
-Use Case 2: multi-omics and imaging data fusion in brain cancer
+- Use Case 2: multi-omics and imaging data fusion in brain cancer
 
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/JCO_CCI_Imaging-AMARETTO/Imaging-AMARETTO_HTML_Report_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/index.html
 
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-HUB_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/
 
-Use Case 3: pan-squamous cell carcinoma across 5 cancer sites
+- Use Case 3: pan-squamous cell carcinoma across 5 cancer sites
 
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_PanCancer_5DS/index.html
 
@@ -81,8 +78,8 @@ AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC
 ## Audience
 
 This workshop is targeted towards a broad audience of biomedical users and developers:
-1. User-friendly workflows in R Jupyter Notebooks that run the Use Cases on Google Colab servers are provided to reach a broad audience of biomedical researchers.
-2. Software resources via Bioconductor, GitHub and R Jupyter Notebook are provided to enable further algorithm and software development.
+- User-friendly workflows in R Jupyter Notebooks that run the Use Cases on Google Colab servers are provided to reach a broad audience of biomedical researchers.
+- Software resources via Bioconductor, GitHub and R Jupyter Notebook are provided to enable further algorithm and software development.
 
 ## Learning Objectives
 
@@ -99,12 +96,7 @@ Learning how to formulate Use Cases and design workflows based on these principl
 - knowledge graph embedding of multimodal and multiscale networks using AMARETTO-Hub
 
 Learning how to browse, query and interpret results from Use Cases: 
-- tables
-- heatmaps
-- graphs
-
-
-
+- tables, heatmaps, graphs,...
 
 ## Time Outline
 
@@ -114,8 +106,8 @@ An outline of the 45-minute workshop:
 |-------------------------------------------------|------|
 | Introduction to the AMARETTO software toolbox   |  5m  |
 | Introduction to the Use Cases of AMARETTO       |  5m  |
-| Applying AMARETTO resources to the Use Cases    | 25m  |
-| Interpreting AMARETTO results for the Use Cases | 10m  |
+| Running AMARETTO resources for the Use Cases    | 25m  |
+| Interactive exploration of AMARETTO resultsases | 10m  |
 
 ## Background Materials
 
