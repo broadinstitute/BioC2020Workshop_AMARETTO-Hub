@@ -84,9 +84,9 @@ This workshop is targeted towards a broad audience of biomedical users and devel
 ## Learning Objectives
 
 Learning general concepts of biomedical data fusion:
-- concepts of network biology and medicine (single definitions for nodes and edges) versus knowledge graphs (multiple definitions for nodes and edges)
+- concepts of network biology and medicine (single definitions for nodes and edges) versus knowledge graph embedding (multiple definitions for nodes and edges)
 - multimoda data fusion (e.g., multi-omics, imaging, clinical) within biological systems using AMARETTO
-- multiscale data fusion across biological systems (e.g., model systems, patients) using Community-AMARETTO
+- multiscale data fusion across biological systems (e.g., studies of model systems, etiologies, patients) using Community-AMARETTO
 - imaging genomics interrogated for clinical relevance using Imaging-AMARETTO
 - multiple definitions for biomedical enitities and the relationships between them using AMARETTO-Hub
 
@@ -113,9 +113,18 @@ An outline of the 45-minute workshop:
 
 ### Papers
 
+Gevaert O.*, Nabian M.*, Bakr S., Everaert C., Shinde J., Manukyan A., Liefeld T., Tabor T., Xu J., Lupberger J., Haas B.J., Baumert T.F., Hernaez M., Reich M., Quintana F.J., Uhlmann E.J., Krichevsky A.M., Mesirov J.P., Carey V., Pochet N. (2020) Imaging-AMARETTO: an imaging genomics software tool to interrogate multi-omics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes. Accepted for publication in Journal of Clinical Oncology, Clinical Cancer Informatics.
+
+Champion M., Brennan K., Croonenborghs T., Gentles A.J., Pochet N., Gevaert O. (2018) Module analysis captures genetically and epigenetically deregulated cancer driver genes for smoking and antiviral response. EBioMedicine, 27:156-166. https://www.thelancet.com/article/S2352-3964(17)30472-3/fulltext
+
 ### Blog
 
+https://datascience.cancer.gov/news-events/blog/informatics-technology-cancer-research-program-drives-and-fosters-community-cancer
+
 ### Talks
+
+Short version (BioC 2019): 
+Long version (HMS/BWH 2019): http://portals.broadinstitute.org/pochetlab/HMS_BWH_seminar_NP.pdf
 
 ### Figures (to be updated)
 
