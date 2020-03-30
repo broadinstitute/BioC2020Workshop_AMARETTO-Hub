@@ -80,11 +80,31 @@ AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC
   
 ## Audience
 
-<audience: both biomed users for user-friendly tools, and software devs to enable further devs>
-
-*AMARETTO is available as user-friendly tools via GitHub, Bioconductor and R Jupyter Notebook to enable further algorithm and software development and via GenePattern, GenomeSpace and GenePattern Notebook to reach a broad audience of biomedical researchers.
+This workshop is targeted towards a broad audience of biomedical users and developers:
+1. User-friendly workflows in R Jupyter Notebooks that run the Use Cases on Google Colab servers are provided to reach a broad audience of biomedical researchers.
+2. Software resources via Bioconductor, GitHub and R Jupyter Notebook are provided to enable further algorithm and software development.
 
 ## Learning Objectives
+
+Learning general concepts of biomedical data fusion:
+- concepts of network biology and medicine (single definitions for nodes and edges) versus knowledge graphs (multiple definitions for nodes and edges)
+- multimoda data fusion (e.g., multi-omics, imaging, clinical) within biological systems using AMARETTO
+- multiscale data fusion across biological systems (e.g., model systems, patients) using Community-AMARETTO
+- imaging genomics interrogated for clinical relevance using Imaging-AMARETTO
+- multiple definitions for biomedical enitities and the relationships between them using AMARETTO-Hub
+
+Learning how to formulate Use Cases and design workflows based on these principles:
+- multimodal data fusion within biological systems using AMARETTO and Imaging-AMARETTO
+- multiscale data fusion across biological systems using Community-AMARETTO and and Imaging-Community-AMARETTO
+- knowledge graph embedding of multimodal and multiscale networks using AMARETTO-Hub
+
+Learning how to browse, query and interpret results from Use Cases: 
+- tables
+- heatmaps
+- graphs
+
+
+
 
 ## Time Outline
 
