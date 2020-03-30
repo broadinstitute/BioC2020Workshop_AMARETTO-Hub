@@ -59,21 +59,21 @@ https://colab.research.google.com/drive/17RwBxwWWnXJMRI_VZl-X-hztJTwvlFjl
 
 - **Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma**
 
-**Community-AMARETTO HTML Report**: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_Liver_6DS/index.html
+Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_Liver_6DS/index.html
 
-**AMARETTO-Hub Neo4j/Shiny Report**: https://pochetlab.shinyapps.io/AMARETTO-Hub_Liver_6DS/
+AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_Liver_6DS/
 
 - **Use Case 2: multi-omics and imaging data fusion in brain cancer**
 
-**Community-AMARETTO HTML Report**: http://portals.broadinstitute.org/pochetlab/JCO_CCI_Imaging-AMARETTO/Imaging-AMARETTO_HTML_Report_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/index.html
+Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/JCO_CCI_Imaging-AMARETTO/Imaging-AMARETTO_HTML_Report_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/index.html
 
-**AMARETTO-Hub Neo4j/Shiny Report**: https://pochetlab.shinyapps.io/AMARETTO-HUB_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/
+AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-HUB_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/
 
 - **Use Case 3: pan-squamous cell carcinoma across 5 cancer sites**
 
-**Community-AMARETTO HTML Report**: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_PanCancer_5DS/index.html
+Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_PanCancer_5DS/index.html
 
-**AMARETTO-Hub Neo4j/Shiny Report**: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC_5DS/
+AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC_5DS/
   
 ## Audience
 
@@ -113,7 +113,7 @@ An outline of the 45-minute workshop:
 
 ### Papers
 
-Gevaert O.&ast, Nabian M.&ast, Bakr S., Everaert C., Shinde J., Manukyan A., Liefeld T., Tabor T., Xu J., Lupberger J., Haas B.J., Baumert T.F., Hernaez M., Reich M., Quintana F.J., Uhlmann E.J., Krichevsky A.M., Mesirov J.P., Carey V., Pochet N. (2020) Imaging-AMARETTO: an imaging genomics software tool to interrogate multi-omics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes. Accepted for publication in Journal of Clinical Oncology, Clinical Cancer Informatics.
+Gevaert O.*, Nabian M.*, Bakr S., Everaert C., Shinde J., Manukyan A., Liefeld T., Tabor T., Xu J., Lupberger J., Haas B.J., Baumert T.F., Hernaez M., Reich M., Quintana F.J., Uhlmann E.J., Krichevsky A.M., Mesirov J.P., Carey V., Pochet N. (2020) Imaging-AMARETTO: an imaging genomics software tool to interrogate multi-omics networks for relevance to radiography and histopathology imaging biomarkers of clinical outcomes. Accepted for publication in Journal of Clinical Oncology, Clinical Cancer Informatics.
 
 Champion M., Brennan K., Croonenborghs T., Gentles A.J., Pochet N., Gevaert O. (2018) Module analysis captures genetically and epigenetically deregulated cancer driver genes for smoking and antiviral response. EBioMedicine, 27:156-166. https://www.thelancet.com/article/S2352-3964(17)30472-3/fulltext
 
