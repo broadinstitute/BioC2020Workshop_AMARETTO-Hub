@@ -44,26 +44,35 @@ AMARETTO-Hub: https://github.com/broadinstitute/AMARETTO-Hub
 ### R Jupyter Notebooks for running Use Cases on Google Golab servers
 
 Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma
+
 https://colab.research.google.com/drive/17GieTfYriTVlbKchl-OEb5nI_NA2vvjQ
 
 Use Case 2: multi-omics and imaging data fusion in brain cancer
+
 https://colab.research.google.com/drive/1i9M5vNfLm2VWi6qDkh04Z2lBE4NEc6XP
 
 Use Case 3: pan-squamous cell carcinoma across 5 cancer sites
+
 https://colab.research.google.com/drive/17RwBxwWWnXJMRI_VZl-X-hztJTwvlFjl
 
 ### Reports with results from Use cases
 
 Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma
+
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_Liver_6DS/index.html
+
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_Liver_6DS/
 
 Use Case 2: multi-omics and imaging data fusion in brain cancer
+
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/JCO_CCI_Imaging-AMARETTO/Imaging-AMARETTO_HTML_Report_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/index.html
+
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-HUB_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/
 
 Use Case 3: pan-squamous cell carcinoma across 5 cancer sites
+
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_PanCancer_5DS/index.html
+
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC_5DS/
   
 ## Audience
@@ -90,6 +99,8 @@ An outline of the 45-minute workshop:
 ### Papers
 
 ### Blog
+
+### Talks
 
 ### Figures (to be updated)
 
