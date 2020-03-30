@@ -1,5 +1,5 @@
 # Bioconductor 2020 Workshop on AMARETTO-Hub
-## _AMARETTO-Hub: a Knowledge Graph Platform that embeds &ast;AMARETTO Tools for Multimodal and Multiscale Network BioMedicine_
+## _AMARETTO-Hub: a Knowledge Graph Platform embedding &ast;AMARETTO Tools for Multimodal and Multiscale Network BioMedicine_
 
 # Instructors
 
