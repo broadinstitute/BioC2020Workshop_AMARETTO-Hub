@@ -3,11 +3,9 @@
 
 # Instructors
 
-Nathalie Pochet (npochet@broadinstitute.org)
-
-Mohsen Nabian (mnabian@broadinstitute.org)
-
-Artur Manukyan (amanukya@broadinstitute.org)
+- Nathalie Pochet (npochet@broadinstitute.org)
+- Mohsen Nabian (mnabian@broadinstitute.org)
+- Artur Manukyan (amanukya@broadinstitute.org)
 
 
 # Workshop Description
