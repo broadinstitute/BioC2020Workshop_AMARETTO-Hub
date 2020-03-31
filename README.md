@@ -53,7 +53,7 @@ https://colab.research.google.com/drive/1i9M5vNfLm2VWi6qDkh04Z2lBE4NEc6XP
 
 https://colab.research.google.com/drive/17RwBxwWWnXJMRI_VZl-X-hztJTwvlFjl
 
-### Reports with results from Use cases
+### Reports with results from Use Cases
 
 - **Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma**
 
