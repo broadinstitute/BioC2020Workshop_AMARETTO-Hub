@@ -45,7 +45,7 @@ We demonstrate the utility of the AMARETTO-Hub platform via several Use Cases of
 
 https://colab.research.google.com/drive/17GieTfYriTVlbKchl-OEb5nI_NA2vvjQ
 
-- **Use Case 2: multi-omics and imaging data fusion in brain cancer**
+- **Use Case 2: multi-omics and imaging data fusion in brain cancers**
 
 https://colab.research.google.com/drive/1i9M5vNfLm2VWi6qDkh04Z2lBE4NEc6XP
 
@@ -61,7 +61,7 @@ Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo
 
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_Liver_6DS/
 
-- **Use Case 2: multi-omics and imaging data fusion in brain cancer**
+- **Use Case 2: multi-omics and imaging data fusion in brain cancers**
 
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/JCO_CCI_Imaging-AMARETTO/Imaging-AMARETTO_HTML_Report_TCGA-GBM_IVYGAP-GBM_TCGA-LGG/index.html
 
