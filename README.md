@@ -39,7 +39,7 @@ We demonstrate the utility of the AMARETTO-Hub platform via several Use Cases of
 - **Imaging-AMARETTO**: https://github.com/broadinstitute/ImagingAMARETTO
 - **AMARETTO-Hub**: https://github.com/broadinstitute/AMARETTO-Hub
 
-### R Jupyter Notebooks for running Use Cases on Google Golab servers
+### R Jupyter Notebooks for running Use Cases on Google Colab servers
 
 - **Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma**
 
