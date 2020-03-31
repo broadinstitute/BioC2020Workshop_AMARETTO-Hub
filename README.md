@@ -76,8 +76,8 @@ AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC
 ## Audience
 
 This workshop is targeted towards a broad audience of biomedical users and developers:
-- User-friendly workflows in R Jupyter Notebooks that run the Use Cases on Google Colab servers are provided to reach a broad audience of biomedical researchers.
 - Software resources via Bioconductor, GitHub and R Jupyter Notebook are provided to enable further algorithm and software development.
+- User-friendly workflows in R Jupyter Notebooks that run the Use Cases on Google Colab servers are provided to reach a broad audience of biomedical researchers.
 
 ## Learning Objectives
 
