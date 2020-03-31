@@ -83,7 +83,7 @@ This workshop is targeted towards a broad audience of biomedical users and devel
 
 Learning general concepts of biomedical data fusion:
 - concepts of network biology and medicine (single definitions for nodes and edges) versus knowledge graph embedding (multiple definitions for nodes and edges)
-- multimoda data fusion (e.g., multi-omics, imaging, clinical) within biological systems using AMARETTO
+- multimodal data fusion (e.g., multi-omics, imaging, clinical) within biological systems using AMARETTO
 - multiscale data fusion across biological systems (e.g., studies of model systems, etiologies, patients) using Community-AMARETTO
 - imaging genomics interrogated for clinical relevance using Imaging-AMARETTO
 - multiple definitions for biomedical enitities and the relationships between them using AMARETTO-Hub
