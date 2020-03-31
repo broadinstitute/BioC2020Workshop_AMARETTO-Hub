@@ -122,6 +122,7 @@ https://datascience.cancer.gov/news-events/blog/informatics-technology-cancer-re
 ### Talks
 
 BioC 2019: http://portals.broadinstitute.org/pochetlab/BioC2019talk.pdf
+
 HMS/BWH 2019: http://portals.broadinstitute.org/pochetlab/HMSBWH2019talk.pdf
 
 ### Funding
