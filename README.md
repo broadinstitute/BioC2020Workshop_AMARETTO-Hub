@@ -82,19 +82,19 @@ This workshop is targeted towards a broad audience of biomedical users and devel
 ## Learning Objectives
 
 Learning general concepts of biomedical data fusion:
-- concepts of network biology and medicine (single definitions for nodes and edges) versus knowledge graph embedding (multiple definitions for nodes and edges)
-- multimodal data fusion (e.g., multi-omics, imaging, clinical) within biological systems using AMARETTO
-- multiscale data fusion across biological systems (e.g., studies of model systems, etiologies, patients) using Community-AMARETTO
-- imaging genomics interrogated for clinical relevance using Imaging-AMARETTO
-- multiple definitions for biomedical enitities and the relationships between them using AMARETTO-Hub
+- Concepts of Network Biology and Medicine (single definitions for nodes and edges) versus Knowledge Graph embedding (multiple definitions for nodes and edges)
+- Multimodal data fusion (e.g., multi-omics, imaging, clinical) within biological systems using AMARETTO
+- Multiscale data fusion across biological systems (e.g., studies of model systems, etiologies, patients) using Community-AMARETTO
+- Imaging genomics interrogated for clinical relevance using Imaging-AMARETTO
+- Multiple definitions for biomedical entities and the relationships between them using AMARETTO-Hub
 
 Learning how to formulate Use Cases and design workflows based on these principles:
-- multimodal data fusion within biological systems using AMARETTO and Imaging-AMARETTO
-- multiscale data fusion across biological systems using Community-AMARETTO and and Imaging-Community-AMARETTO
-- knowledge graph embedding of multimodal and multiscale networks using AMARETTO-Hub
+- Multimodal data fusion within biological systems using AMARETTO and Imaging-AMARETTO
+- Multiscale data fusion across biological systems using Community-AMARETTO and and Imaging-Community-AMARETTO
+- Knowledge Graph embedding of multimodal and multiscale networks using AMARETTO-Hub
 
 Learning how to browse, query and interpret results from Use Cases: 
-- tables, heatmaps, graphs,...
+- Tables, Heatmaps, Graphs,...
 
 ## Time Outline
 
