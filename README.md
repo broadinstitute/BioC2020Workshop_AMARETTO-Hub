@@ -53,6 +53,10 @@ https://colab.research.google.com/drive/1i9M5vNfLm2VWi6qDkh04Z2lBE4NEc6XP
 
 https://colab.research.google.com/drive/17RwBxwWWnXJMRI_VZl-X-hztJTwvlFjl
 
+- **Use Case 4: COVID-19**
+
+TBD  
+
 ### Reports with results from Use Cases
 
 - **Use Case 1: hepatitis C and B virus-induced hepatocellular carcinoma**
@@ -72,6 +76,12 @@ AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-HUB_TCG
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_PanCancer_5DS/index.html
 
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC_5DS/
+
+- **Use Case 4: COVID-19**
+
+Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_COVID19/cAMARETTOhtmls/index.html
+
+AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_Covid19/
   
 ## Audience
 
@@ -125,6 +135,10 @@ BioC 2019: http://portals.broadinstitute.org/pochetlab/BioC2019talk.pdf
 
 HMS/BWH 2019: http://portals.broadinstitute.org/pochetlab/HMSBWH2019talk.pdf
 
+### Lab
+
+http://portals.broadinstitute.org/pochetlab/
+ 
 ### Funding
 
 This work was supported by grants from NIH NCI ITCR R21 CA209940 (Pochet), NIH NCI ITCR U01 CA214846 Collaborative Supplement (Carey/Pochet) and NIH NIAID R03 AI131066 (Pochet).
