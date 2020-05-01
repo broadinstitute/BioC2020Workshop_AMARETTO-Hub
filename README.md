@@ -79,7 +79,7 @@ AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC
 
 - **Use Case 4: COVID-19**
 
-Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_COVID19/cAMARETTOhtmls/index.html
+Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_COVID19/index.html
 
 AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_Covid19/
   
