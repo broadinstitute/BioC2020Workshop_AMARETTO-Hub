@@ -81,7 +81,7 @@ AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_SCC
 
 Community-AMARETTO HTML Report: http://portals.broadinstitute.org/pochetlab/demo/cAMARETTO_COVID19/index.html
 
-AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/AMARETTO-Hub_Covid19/
+AMARETTO-Hub Neo4j/Shiny Report: https://pochetlab.shinyapps.io/COVID19_Hub/
   
 ## Audience
 
